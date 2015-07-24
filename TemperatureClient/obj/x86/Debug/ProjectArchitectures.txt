@@ -1,0 +1,1 @@
+C:\Users\t-meilim\Desktop\IoT-Tutorial\TemperatureClient\TemperatureClient.csproj;x86

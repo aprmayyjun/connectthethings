@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureMeasurement", "TemperatureMeasurement.csproj", "{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceLib", "ReferenceLib", "{127C82F9-EF72-46A0-92D4-CC0798E6468C}"
+	ProjectSection(SolutionItems) = preProject
+		ReferenceLib\Microsoft.AspNet.SignalR.Client.dll = ReferenceLib\Microsoft.AspNet.SignalR.Client.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Raspberry PI 2|ARM = Raspberry PI 2|ARM
+		Raspberry PI 2|x64 = Raspberry PI 2|x64
+		Raspberry PI 2|x86 = Raspberry PI 2|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|ARM.Build.0 = Debug|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x64.ActiveCfg = Debug|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x64.Build.0 = Debug|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x64.Deploy.0 = Debug|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x86.ActiveCfg = Debug|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x86.Build.0 = Debug|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Debug|x86.Deploy.0 = Debug|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|ARM.ActiveCfg = Raspberry PI 2|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|ARM.Build.0 = Raspberry PI 2|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|ARM.Deploy.0 = Raspberry PI 2|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x64.ActiveCfg = Raspberry PI 2|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x64.Build.0 = Raspberry PI 2|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x64.Deploy.0 = Raspberry PI 2|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x86.ActiveCfg = Raspberry PI 2|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x86.Build.0 = Raspberry PI 2|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Raspberry PI 2|x86.Deploy.0 = Raspberry PI 2|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|ARM.ActiveCfg = Release|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|ARM.Build.0 = Release|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|ARM.Deploy.0 = Release|ARM
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x64.ActiveCfg = Release|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x64.Build.0 = Release|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x64.Deploy.0 = Release|x64
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x86.ActiveCfg = Release|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x86.Build.0 = Release|x86
+		{8167F6D6-D56F-45FC-98F9-B7B8F5C4958B}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

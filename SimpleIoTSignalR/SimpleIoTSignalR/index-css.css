@@ -1,0 +1,11 @@
+﻿.index-css {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font: normal 20px/1 "Advent Pro", Helvetica, sans-serif;
+  color: black;
+  text-indent: 10px;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}

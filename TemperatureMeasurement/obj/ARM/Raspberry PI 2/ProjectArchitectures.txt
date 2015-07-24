@@ -1,0 +1,1 @@
+C:\Users\a-rimarh\Documents\Visual Studio 2015\Projects\Temperature Measurement\TemperatureMeasurement.csproj;arm
