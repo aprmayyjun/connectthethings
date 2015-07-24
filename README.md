@@ -27,10 +27,11 @@
 #### Step 2a: Set up Raspberry Pi component (hardware)
 ![Hardware Overview](/images/raspi-hardware_overview.jpg)
 ![Hardware Detailed](/images/raspi-hardware_detailed.jpg)
-![Hardware Preview](/images/raspi-hardware_preview.jpg)
 
 #### Step 2b: Set up Raspberry Pi component (software)
+![Change API URL](/images/raspi-change_api_url.png)
 ![Build Project](/images/raspi-build_project.png)
+![RasPi Preview](/images/raspi-hardware_preview.jpg)
 
 #### Step 4: Set up SignalR web api on Microsoft Azure
 ![Create Web App](/images/azure-create_app_1.png)
