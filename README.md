@@ -6,12 +6,14 @@
 * Visual Studio IDE (2013 onwards)
 * Microsoft Azure account (free trial or DreamSpark subscription will do)
 
-Hardware components:
-* Raspberry Pi 2 (Model B), and accessories (micro-USB power cable, LAN cable or Wifi dongle)
+__Hardware components:__
+* Raspberry Pi 2 (Model B)
+* Micro-USB power cable
+* LAN cable or RasPi Wifi dongle
 * Breadboard and wires
 * Temperature sensor (TMP36)
 * ADC converter (MCP3208)
-* Monitor screen and HDMI cable (for the Raspberry Pi)
+* Monitor screen and HDMI cable (for RasPi)
 
 
 ## Steps
